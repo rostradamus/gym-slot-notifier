@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "gymslotnotifier.gymschedule.client.baseUrl",
+      "type": "java.lang.String",
+      "description": "Description for gymslotnotifier.gymschedule.client.baseUrl."
+    },
+    {
+      "name": "gymslotnotifier.gymschedule.client.token",
+      "type": "java.lang.String",
+      "description": "Description for gymslotnotifier.gymschedule.client.token."
+    }
+  ]
+}
